@@ -1,0 +1,11 @@
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\bin\Debug\ejemplo5Guia2PED.exe.config
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\bin\Debug\ejemplo5Guia2PED.exe
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\bin\Debug\ejemplo5Guia2PED.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.csproj.AssemblyReference.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.csproj.SuggestedBindingRedirects.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.Form1.resources
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.Properties.Resources.resources
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.csproj.GenerateResource.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.csproj.CoreCompileInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.exe
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo5Guia2PED\ejemplo5Guia2PED\obj\Debug\ejemplo5Guia2PED.pdb

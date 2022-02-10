@@ -1,0 +1,5 @@
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo6Guia2PED\ejemplo6Guia2PED\obj\Debug\net6.0\ejemplo6Guia2PED.csproj.AssemblyReference.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo6Guia2PED\ejemplo6Guia2PED\obj\Debug\net6.0\ejemplo6Guia2PED.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo6Guia2PED\ejemplo6Guia2PED\obj\Debug\net6.0\ejemplo6Guia2PED.AssemblyInfoInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo6Guia2PED\ejemplo6Guia2PED\obj\Debug\net6.0\ejemplo6Guia2PED.AssemblyInfo.cs
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo6Guia2PED\ejemplo6Guia2PED\obj\Debug\net6.0\ejemplo6Guia2PED.csproj.CoreCompileInputs.cache

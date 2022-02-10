@@ -1,0 +1,15 @@
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\bin\Debug\net6.0\ejemplo7Guia2PED.exe
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\bin\Debug\net6.0\ejemplo7Guia2PED.deps.json
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\bin\Debug\net6.0\ejemplo7Guia2PED.runtimeconfig.json
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\bin\Debug\net6.0\ejemplo7Guia2PED.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\bin\Debug\net6.0\ref\ejemplo7Guia2PED.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\bin\Debug\net6.0\ejemplo7Guia2PED.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.csproj.AssemblyReference.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.AssemblyInfoInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.AssemblyInfo.cs
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.csproj.CoreCompileInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ref\ejemplo7Guia2PED.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ejemplo7Guia2PED\ejemplo7Guia2PED\obj\Debug\net6.0\ejemplo7Guia2PED.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\Postgrados\Documents\HM210444 PED\LOCAL_L2 HM210444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\UDB-LOCAL 03 (2022)\LAB 2 PED HM21444\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
